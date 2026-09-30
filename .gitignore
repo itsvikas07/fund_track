@@ -1,0 +1,25 @@
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Django
+db.sqlite3
+
+# Node.js
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Hardhat
+cache/
+artifacts/
